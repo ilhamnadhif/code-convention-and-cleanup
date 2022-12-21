@@ -1,0 +1,2 @@
+Pada file gambar bernama tester itu sudah betul dalam pengkondisian
+if/else nya jadi tidak seperti callback hell.
